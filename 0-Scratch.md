@@ -1,5 +1,5 @@
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50">Voltar ao README</a>
 </p>
 
 # Semana 0 - Scratch 
