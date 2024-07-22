@@ -108,5 +108,5 @@ Melhor garantir que seu arquivo seja menor que esse limite.
 Para ver seu progresso atual no curso, visite o livro de notas do curso em [cs50.me/cs50x](cs50.me/cs50x) !
 
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50">Voltar ao README</a>
 </p>
