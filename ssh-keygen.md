@@ -1,5 +1,5 @@
 <p align="right">
-   <a href="https://github.com/GersonESantos/CS50/edit/main/README.md">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50/edit/main">Voltar ao README</a>
 </p>
 
 # Como testar seu código - Criando chave SSH para o GitHub  
