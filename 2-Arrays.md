@@ -32,26 +32,26 @@
 
 # Descritivo do Laboratório 2
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Laboratório 2 - Scrabble](https://patyfil.github.io/cs50-cc50-harvard/semana2/scrabble)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Laboratório 2 - Scrabble](https://github.com/GersonESantos/CS50semana2/scrabble)  
 [ING - Lab 2: Scrabble](https://cs50.harvard.edu/x/2023/labs/2/) 
 
 
 # Descritivo dos Exercícios: 
 [ING - Problem Set 2 (ALL)](https://cs50.harvard.edu/x/2023/psets/2/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 1: Readability](https://patyfil.github.io/cs50-cc50-harvard/semana2/readability)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 1: Readability](https://github.com/GersonESantos/CS50semana2/readability)  
 [ING - pset2 exercise 1](https://cs50.harvard.edu/x/2023/psets/2/readability/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 2: Caesar](https://patyfil.github.io/cs50-cc50-harvard/semana2/caesar)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 2: Caesar](https://github.com/GersonESantos/CS50semana2/caesar)  
 [ING - pset2 exercise 2](https://cs50.harvard.edu/x/2023/psets/2/caesar/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 3: Substitution](https://patyfil.github.io/cs50-cc50-harvard/semana2/substitution)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 3: Substitution](https://github.com/GersonESantos/CS50semana2/substitution)  
 [ING - pset2 exercise 3](https://cs50.harvard.edu/x/2023/psets/2/substitution/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 4: Bulbs](https://patyfil.github.io/cs50-cc50-harvard/semana2/bulbs)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 4: Bulbs](https://github.com/GersonESantos/CS50semana2/bulbs)  
 [ING - pset2 exercise 3](https://cs50.harvard.edu/x/2023/psets/2/bulbs/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 5: Wordle50](https://patyfil.github.io/cs50-cc50-harvard/semana2/wordle50)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 5: Wordle50](https://github.com/GersonESantos/CS50semana2/wordle50)  
 [ING - pset2 exercise 3](https://cs50.harvard.edu/x/2023/psets/2/wordle50/)  
 
 
@@ -65,12 +65,12 @@
 
 Além do laboratório e do conjunto de problemas desta semana, você pode tentar qualquer um destes (opcional!) problemas práticos:
 
-* [Hours](https://patyfil.github.io/cs50-cc50-harvard/semana2/hours), para praticar com arrays, passando arrays como parâmetros para uma função, divisão de inteiro e conversão de tipo  
-* [N0 V0w3ls](https://patyfil.github.io/cs50-cc50-harvard/semana2/no-vowels), para praticar com strings, argumentos de linha de comando e escrever um programa inteiro do zero  
-* [Password](https://patyfil.github.io/cs50-cc50-harvard/semana2/password), para praticar a iteração por meio de uma string, usando a `ctype` biblioteca e usando variáveis ​​booleanas  
+* [Hours](https://github.com/GersonESantos/CS50semana2/hours), para praticar com arrays, passando arrays como parâmetros para uma função, divisão de inteiro e conversão de tipo  
+* [N0 V0w3ls](https://github.com/GersonESantos/CS50semana2/no-vowels), para praticar com strings, argumentos de linha de comando e escrever um programa inteiro do zero  
+* [Password](https://github.com/GersonESantos/CS50semana2/password), para praticar a iteração por meio de uma string, usando a `ctype` biblioteca e usando variáveis ​​booleanas  
 
 &nbsp;
 
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50">Voltar ao README</a>
 </p>
