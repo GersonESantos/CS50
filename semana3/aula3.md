@@ -1,8 +1,8 @@
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50/">Voltar ao README</a>
 </p>
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/3-Algoritmos.html">Voltar ao Índice da Semana 3</a>
+   <a href="https://github.com/GersonESantos/CS50/3-Algoritmos.html">Voltar ao Índice da Semana 3</a>
 </p>
 
 # Anotações da Aula 3  
@@ -861,8 +861,8 @@ E aí, gostou das notas da aula?
 [Voltar ao Índice](#índice)
 
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50/">Voltar ao README</a>
 </p>
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/3-Algoritmos.html">Voltar ao Índice da Semana 3</a>
+   <a href="https://github.com/GersonESantos/CS50/3-Algoritmos.html">Voltar ao Índice da Semana 3</a>
 </p>
