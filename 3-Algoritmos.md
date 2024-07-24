@@ -1,5 +1,5 @@
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50">Voltar ao README</a>
 </p>
 
 # Semana 3 - Algoritmos  
@@ -35,20 +35,20 @@
 
 # Descritivo do Laboratório 3
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Laboratório 3 - Sort (Ordenar)](https://patyfil.github.io/cs50-cc50-harvard/semana3/sort)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Laboratório 3 - Sort (Ordenar)](https://github.com/GersonESantos/CS50semana3/sort)  
 [ING - Lab 3: Sort](https://cs50.harvard.edu/x/2023/labs/3/) 
 
 
 # Descritivo dos Exercícios: 
 [ING - Problem Set 3 (ALL)](https://cs50.harvard.edu/x/2023/psets/3/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 1: Eleição de Pluralidade](https://patyfil.github.io/cs50-cc50-harvard/semana3/plurality)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 1: Eleição de Pluralidade](https://github.com/GersonESantos/CS50semana3/plurality)  
 [ING - pset3 exercise 1 - Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 2: Runoff (Eleição com Turnos)](https://patyfil.github.io/cs50-cc50-harvard/semana3/runoff)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 2: Runoff (Eleição com Turnos)](https://github.com/GersonESantos/CS50semana3/runoff)  
 [ING - pset3 exercise 2 - Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)  
 
-## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 3: Tideman](https://patyfil.github.io/cs50-cc50-harvard/semana3/tideman)  
+## <img src="assets/folderOpen2.svg" width=30 /> [PORT - Exercício 3: Tideman](https://github.com/GersonESantos/CS50semana3/tideman)  
 [ING - pset3 exercise 3 - Tideman](https://cs50.harvard.edu/x/2023/psets/3/tideman/)  
 
 &nbsp;
@@ -57,13 +57,13 @@
 
 Além do laboratório e do conjunto de problemas desta semana, você pode tentar qualquer um destes (opcional!) problemas práticos:
 
-* [Recursiveatoi](https://patyfil.github.io/cs50-cc50-harvard/semana3/recursivoatoi), para praticar a criação de funções recursivas.  
-* [Average Temperatures (Temperaturas médias)](https://patyfil.github.io/cs50-cc50-harvard/semana3/temps), para praticar o trabalho com `struct`s e algoritmos de classificação.  
-* [Max](https://patyfil.github.io/cs50-cc50-harvard/semana3/max), para praticar passando arrays para funções e encontrando valores máximos  
-* [Snackbar](https://patyfil.github.io/cs50-cc50-harvard/semana3/snackbar), para praticar usando `struct`s e escrevendo um algoritmo de busca linear  
+* [Recursiveatoi](https://github.com/GersonESantos/CS50semana3/recursivoatoi), para praticar a criação de funções recursivas.  
+* [Average Temperatures (Temperaturas médias)](https://github.com/GersonESantos/CS50semana3/temps), para praticar o trabalho com `struct`s e algoritmos de classificação.  
+* [Max](https://github.com/GersonESantos/CS50semana3/max), para praticar passando arrays para funções e encontrando valores máximos  
+* [Snackbar](https://github.com/GersonESantos/CS50semana3/snackbar), para praticar usando `struct`s e escrevendo um algoritmo de busca linear  
 
 &nbsp;
 
 <p align="right">
-   <a href="https://patyfil.github.io/cs50-cc50-harvard/">Voltar ao README</a>
+   <a href="https://github.com/GersonESantos/CS50">Voltar ao README</a>
 </p>
