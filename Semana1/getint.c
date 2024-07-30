@@ -3,6 +3,7 @@
 
 int main(void)
 {
+    
     //so aceita inteiro
     int i = get_int("Numero:");
     printf("%i\n", i);
